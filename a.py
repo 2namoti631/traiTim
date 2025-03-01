@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Tiêu đề ứng dụng
-st.title("💖 yêu Đan 💖")
+st.title("💖 yêu em Trang💖")
 
 # Hàm vẽ hình trái tim
 def draw_heart():
